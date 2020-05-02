@@ -1,0 +1,7 @@
+<templateSet group="Android">
+  <template name="mvnpm" value="Bumped project version and added changelog entry." description="Bumped project version and added changelog entry." toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+</templateSet>
